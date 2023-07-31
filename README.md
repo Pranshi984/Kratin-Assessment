@@ -1,5 +1,5 @@
 Wellness and Social Connection Platform
-License: MIT
+
 
 Description
 The Wellness and Social Connection Platform is a web application designed to promote the physical and mental well-being of seniors aged 65 and above. It provides personalized exercise routines, health tracking, and social networking features to keep seniors healthy, connected, and engaged within their community.
